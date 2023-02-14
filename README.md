@@ -27,5 +27,5 @@ style="display: inline_block"><br>
  
 </div>
 
-
+![Snake animation](https://github.com/kleuvyn/kleuvyn/blob/output/github-contribution-grid-snake.svg)
 
