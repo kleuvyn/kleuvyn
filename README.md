@@ -2,7 +2,7 @@
 
  📚 Estudante de Analise e Desenvolvimento de Sistemas 
  
-😅 Tenho desenvolvendo capacidades na área de software (Python, HTML, CSS e JavaScrip), meu portfólio está em andamento.
+😅 Venho desenvolvendo capacidades na área de software (Python, HTML, CSS e JavaScrip), meu portfólio está em andamento.
 
 <picture>
 <source 
