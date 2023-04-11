@@ -10,12 +10,12 @@ Acompanhe minha evolução e desenvolvimento em capacidades na área de software
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KLUVYN&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme:dark), (prefers-color-scheme:dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true" />
 </picture>
@@ -28,5 +28,4 @@ Acompanhe minha evolução e desenvolvimento em capacidades na área de software
 
 
 /
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact__icons=true&theme=synthwave)](https://github.com/kleuvyn/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact__icons=true&theme=synthwave)](https://github.com/KLEUVYN/github-readme-stats)
