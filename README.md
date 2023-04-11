@@ -1,8 +1,12 @@
 ## Olá! Eu sou a Beatryz Kleuvyn
 
  📚 Estudante de Analise e Desenvolvimento de Sistemas 
- 
-😅 Estou desenvolvendo capacidades na área de software (Python, HTML, CSS, JavaScrip e Analise de dados), meu portfólio está em andamento.
+
+Mãe e Estudante de Analise e Desenvolvimento de Sistemas em desenvolvimento, após 11 anos sem estudar começando aos 28 anos a dar os seus primeiros passos na Área de Tecnologia.
+Essa nova jornada está sendo desafiadora e inovadora, me pego aprendendo varias coisas novas, esse novo começo está me mostrando o quanto podemos crescer e evoluir constantemente.
+Da inicio nessa nova experiencia foi difícil mais evolucionaria para mim.
+
+Acompanhe minha evolução e desenvolvimento em capacidades na área de software, meu portfólio está em andamento ....
 
 <picture>
 <source 
