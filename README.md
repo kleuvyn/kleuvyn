@@ -12,10 +12,15 @@ Acompanhe minha evolução e desenvolvimento em capacidades na área de software
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=synthwave"
   media="(prefers-color-scheme: dark)"![image](https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png)![image](https://user-images.githubusercontent.com/121393887/218644020-1130b3f1-29f2-4b21-943e-ad75e18ca4d0.png)
-
-<picture>
-<source 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact__icons=true&theme=synthwave)](https://github.com/kleuvyn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KLEUVYN&hide_progress=true)](https://github.com/KLEUVYN/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLEUVYN&repo=github-readme-stats)](https://github.com/KLEUVYN/github-readme-stats)
+<a href="https://github.com/KLEUVYN/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KLEUVYN&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/KLEUVYN/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KLEUVYN&repo=convoychat" />
+</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLEUVYN)](https://github.com/KLEUVYN/github-readme-stats)
 
 <picture>
 <source 
