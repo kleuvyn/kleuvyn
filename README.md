@@ -1,14 +1,14 @@
-## Olá! Seja bem vindo
+## Olá! Seja bem-vindo!
 
- Me chamo Beatryz Kleuvyn, ou a mãe da Luna e claro Estudante de Analise e Desenvolvimento de Sistemas em desenvolvimento, após 11 anos sem estudar recomeçando aos 28 anos a dar os seus primeiros passos na Área de Tecnologia.
-Essa nova jornada está sendo desafiadora e inovadora, me pego aprendendo varias coisas novas, esse novo começo está me mostrando o quanto podemos crescer e evoluir constantemente.
-Da inicio nessa nova experiencia foi difícil mais evolucionaria para mim.
-Tenho um canal no Discord para ajudar meninas que iniciaram por agora e não sabem por onde começar Meninas no Python, e um lugar aonde vou tentar ajudar da melhor forma possível minhas colegas que está iniciando e está perdida por onde começar, ajuda com cronogramas de estudos, pesquisas sobre a área e lógica de programação.
+Me chamo Beatryz Kleuvyn, mãe da Luna e estudante de Análise e Desenvolvimento de Sistemas em desenvolvimento. Após 11 anos sem estudar, decidi recomeçar aos 28 anos e dar meus primeiros passos na área de Tecnologia. Esta nova jornada tem sido desafiadora e inovadora. Tenho aprendido diversas coisas novas e percebo o quanto podemos crescer e evoluir constantemente.
 
-https://discord.gg/Svac2ECM
+O início dessa nova experiência foi difícil, mas também extremamente gratificante para mim. Criei um canal no Discord chamado "Meninas no Python", onde tento ajudar meninas que estão começando agora e não sabem por onde começar. É um espaço onde pretendo auxiliar meus colegas que estão iniciando e se sentem perdidos, fornecendo cronogramas de estudos, pesquisas sobre a área e lógica de programação.
 
-Acompanhe minha evolução e desenvolvimento em capacidades na área de software, meu portfólio está em andamento...
+Se você quiser acompanhar minha evolução em recursos na área de software, meu portfólio está em andamento. Sinta-se à vontade para visitar e conferir meus projetos!
 
+Aqui está o link para o meu canal no Discord: https://discord.gg/Svac2ECM
+
+Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiências com você!
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark"
