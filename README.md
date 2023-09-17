@@ -25,20 +25,24 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 ### Estudando neste momento:
 
 
-<div style="flex: 1; text-align: center; margin-bottom:40px">
+<div align="left">
   <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="45" height="45" title="Python" />
   <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="45" height="45" title="Java"/>
   <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="45" height="45" title="JavaScript"/>
   <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="45" height="45"  title="Banco de Dados"/>
 </div>
 
-  
-  <div style="flex: 1; text-align: center; margin-top:40px">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
- 
-  <a href="https://github.com/KLEUVYN/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
-    </a>
-  </div>
 
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
+</div>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+</p>
 
