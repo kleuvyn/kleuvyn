@@ -38,7 +38,7 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 </p>
  
 <div align="center">  
-  <img width="50%" height="1950px" src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" /> 
   <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
 </div>
 
