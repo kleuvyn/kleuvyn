@@ -25,20 +25,20 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 ### Estudando neste momento:
 
 
-<div style="display: inline-block; text-align: center;">
-  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="70" height="57" />
-  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="65" height="65" />
-  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="70" height="57" />
-  <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="65" height="60" />
-  </div>
+<div style="flex: 1; text-align: center; margin-bottom:40px">
+  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="45" height="45" title="Python" />
+  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="45" height="45" title="Java"/>
+  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="45" height="45" title="JavaScript"/>
+  <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="45" height="45"  title="Banco de Dados"/>
+</div>
+
   
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; margin-top:40px">
   <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
  
   <a href="https://github.com/KLEUVYN/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
     </a>
   </div>
-</div>
 
 
