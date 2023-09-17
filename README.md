@@ -1,31 +1,44 @@
-## Olá! Seja bem-vindo!
+Bem-vindo ao Meu Perfil no GitHub!
 
-Me chamo Beatryz Kleuvyn, mãe da Luna e estudante de Análise e Desenvolvimento de Sistemas em desenvolvimento. Após 11 anos sem estudar, decidi recomeçar aos 28 anos e dar meus primeiros passos na área de Tecnologia. Esta nova jornada tem sido desafiadora e inovadora. Tenho aprendido diversas coisas novas e percebo o quanto podemos crescer e evoluir constantemente.
+Olá, visitante! Seja bem-vindo ao meu perfil no GitHub. Aqui você encontrará informações sobre mim, meus interesses e projetos em que estou envolvido. Permita-me compartilhar um pouco sobre minha jornada de aprendizado e desenvolvimento.
+Quem Sou Eu?
 
-O início dessa nova experiência foi difícil, mas também extremamente gratificante para mim. Criei um canal no Discord chamado "Meninas no Python", onde tento ajudar meninas que estão começando agora e não sabem por onde começar. É um espaço onde pretendo auxiliar meus colegas que estão iniciando e se sentem perdidos, fornecendo cronogramas de estudos, pesquisas sobre a área e lógica de programação.
+Meu nome é Beatryz Kleuvyn, e sou uma entusiasta de tecnologia e uma aprendiz de programação. Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidades em duas áreas principais:
 
-Se você quiser acompanhar minha evolução em recursos na área de software, meu portfólio está em andamento. Sinta-se à vontade para visitar e conferir meus projetos!
+Backend Development
 
-Aqui está o link para o meu canal no Discord: https://discord.gg/Svac2ECM
+Estou focando em aprofundar meu conhecimento em desenvolvimento de backend. Através do uso de tecnologias como Node.js, Java, e outras, estou explorando a criação de servidores, APIs robustas e sistemas escaláveis.
+
+Ciência de Dados com Python
+
+Além do desenvolvimento de backend, estou embarcando na empolgante jornada da Ciência de Dados. Estou explorando Python e suas bibliotecas poderosas, como NumPy, pandas, Matplotlib e scikit-learn, para analisar dados, criar modelos preditivos e extrair insights valiosos.
+
+Projeto Voluntário
+
+Atualmente, sou parte de um projeto voluntário na minha faculdade IESB, onde estamos trabalhando no desenvolvimento de uma plataforma de Prontuário Eletrônico para beneficiar a comunidade. Esta iniciativa visa atender às necessidades de diversos projetos sociais da faculdade e contribuir para o bem-estar da comunidade.
+
+Além disso, estou envolvido no programa One Oracle + Alura, onde tenho a oportunidade de aprimorar minhas habilidades técnicas e práticas através de cursos oferecidos pela Alura e mentoria da Oracle.
 
 Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiências com você!
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true"
-  media="(prefers-color-scheme:dark), (prefers-color-scheme:dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true"
+    media="(prefers-color-scheme: light, dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true" />
 </picture>
 
-
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=synthwave"
-  media="(prefers-color-scheme: dark)"![image](https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png)![image](https://user-images.githubusercontent.com/121393887/218644020-1130b3f1-29f2-4b21-943e-ad75e18ca4d0.png)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png" />
+  <img src="https://user-images.githubusercontent.com/121393887/218644020-1130b3f1-29f2-4b21-943e-ad75e18ca4d0.png" />
+</picture>
 
-/
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact__icons=true&theme=synthwave)](https://github.com/KLEUVYN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave)](https://github.com/KLEUVYN/github-readme-stats)
