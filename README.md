@@ -6,15 +6,15 @@ Olá, visitante! Seja bem-vindo ao meu perfil no GitHub. Aqui você encontrará 
 
 Meu nome é Beatryz Kleuvyn, e sou uma entusiasta de tecnologia e uma aprendiz de programação. Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidades em duas áreas principais:
 
-#Backend Development
+# Backend Development
 
 Estou focando em aprofundar meu conhecimento em desenvolvimento de backend. Através do uso de tecnologias como Node.js, Java, e outras, estou explorando a criação de servidores, APIs robustas e sistemas escaláveis.
 
-#Ciência de Dados com Python
+# Ciência de Dados com Python
 
 Além do desenvolvimento de backend, estou embarcando na empolgante jornada da Ciência de Dados. Estou explorando Python e suas bibliotecas poderosas, como NumPy, pandas, Matplotlib e scikit-learn, para analisar dados, criar modelos preditivos e extrair insights valiosos.
 
-#Projeto Voluntário
+# Projeto Voluntário
 
 Atualmente, sou parte de um projeto voluntário na minha faculdade IESB, onde estamos trabalhando no desenvolvimento de uma plataforma de Prontuário Eletrônico para beneficiar a comunidade. Esta iniciativa visa atender às necessidades de diversos projetos sociais da faculdade e contribuir para o bem-estar da comunidade.
 
