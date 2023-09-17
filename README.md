@@ -35,7 +35,7 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
   <div style="flex: 1; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
  
-    <a href="https://github.com/KLEUVYN/github-readme-stats">
+  <a href="https://github.com/KLEUVYN/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
     </a>
   </div>
