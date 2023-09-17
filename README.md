@@ -1,7 +1,8 @@
 # Bem-vindo ao Meu Perfil no GitHub!
 
-Olá, visitante! Seja bem-vindo ao meu perfil no GitHub. Aqui você encontrará informações sobre mim, meus interesses e projetos em que estou envolvido. Permita-me compartilhar um pouco sobre minha jornada de aprendizado e desenvolvimento.
-Quem Sou Eu?
+Olá, visitante! Seja bem-vindo ao meu perfil no GitHub. Aqui você encontrará informações sobre mim, meus interesses e projetos em que estou envolvida. Permita-me compartilhar um pouco sobre minha jornada de aprendizado e desenvolvimento.
+
+# Quem Sou Eu?
 
 Meu nome é Beatryz Kleuvyn, e sou uma entusiasta de tecnologia e uma aprendiz de programação. Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidades em duas áreas principais:
 
