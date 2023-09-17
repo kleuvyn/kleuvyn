@@ -24,36 +24,17 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 
 ### Estudando neste momento:
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="70" height="57" />
-    <br>
+
+<div style="display: inline-block; text-align: center;">
+  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="70" height="57" />
+  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="65" height="65" />
+  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="70" height="57" />
+  <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="65" height="60" />
   </div>
-
+  
   <div style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="65" height="65" />
-    <br>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="70" height="57" />
-    <br>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="65" height="60" />
-    <br>
-  </div>
-</div>
-
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
-  </div>
-
-  <div style="flex: 1; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
+ 
     <a href="https://github.com/KLEUVYN/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
     </a>
