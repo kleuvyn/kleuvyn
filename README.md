@@ -24,21 +24,27 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 
 ### Estudando neste momento:
 
-<div align="left">
-  <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="70" height="57" /> 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="70" height="57" />
+    <br>
+  </div>
 
-<div align="left">
-  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="65" height="65" /> 
+  <div style="flex: 1; text-align: center;">
+    <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="65" height="65" />
+    <br>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="70" height="57" />
+    <br>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="65" height="60" />
+    <br>
+  </div>
 </div>
-
-<div align="left">
-  <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="70" height="57" /> 
-</div>
-
-<div align="left">
-  <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="65" height="60" /> 
-</div>
-
 
 
 
