@@ -22,19 +22,18 @@ Além disso, estou envolvido no programa One Oracle + Alura, onde tenho a oportu
 Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiências com você!
 
 <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true"
     media="(prefers-color-scheme: light, dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png" />
-  <img src="https://user-images.githubusercontent.com/121393887/218644020-1130b3f1-29f2-4b21-943e-ad75e18ca4d0.png" />
-</picture>
+<img src="https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png" />
+<img src="https://user-images.githubusercontent.com/121393887/218644020-1130b3f1-29f2-4b21-943e-ad75e18ca4d0.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave)](https://github.com/KLEUVYN/github-readme-stats)
