@@ -21,12 +21,16 @@ Além disso, estou envolvido no programa One Oracle + Alura, onde tenho a oportu
 
 Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiências com você!
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" />
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <a href="https://github.com/KLEUVYN/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
+    </a>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://user-images.githubusercontent.com/121393887/218644017-71e889f7-0765-447b-89bd-6b69ffc7a92f.png" />
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave)](https://github.com/KLEUVYN/github-readme-stats)
