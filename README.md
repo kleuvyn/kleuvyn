@@ -16,7 +16,7 @@ Além do desenvolvimento de backend, estou embarcando na empolgante jornada da C
 
 ### Projeto Voluntário
 
-Atualmente, sou parte de um projeto voluntário na minha faculdade IESB, onde estamos trabalhando no desenvolvimento de uma plataforma de Ponto de Vendas para beneficiar a comunidade. Esta iniciativa visa atender às necessidades de diversos projetos sociais da faculdade e contribuir para o bem-estar da comunidade.
+Atualmente, sou parte de um projeto voluntário na minha faculdade IESB, onde estamos trabalhando no desenvolvimento de uma plataforma de Ponto de Vendas para beneficiar a comunidade. Esta iniciativa visa atender às necessidades e o bem-estar da comunidade.
 
 Além disso, estou envolvida no programa One Oracle + Alura, onde tenho a oportunidade de aprimorar minhas habilidades técnicas e práticas através de cursos oferecidos pela Alura e mentoria da Oracle.
 
