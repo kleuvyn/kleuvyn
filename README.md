@@ -25,11 +25,16 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 ### Estudando neste momento:
 
 
-<div align="left">
+<div align="center">
+  
   <img src="https://img.icons8.com/?size=256&id=121464&format=png" alt="Python" width="45" height="45" title="Python" />
-  <img src="https://img.icons8.com/?size=256&id=46630&format=png" alt="Java" width="45" height="45" title="Java"/>
+  <img src="https://img.icons8.com/?size=256&id=FBycNmdwUQz1&format=png" alt="Java" width="45" height="45" title="Java"/>
   <img src="https://img.icons8.com/?size=256&id=1ZSHk8m9bk4p&format=png" alt="JS" width="45" height="45" title="JavaScript"/>
-  <img src="https://img.icons8.com/?size=256&id=42904&format=png" alt="MySQL" width="45" height="45"  title="Banco de Dados"/>
+  <img src="https://img.icons8.com/?size=256&id=IaHmaUtKc8bf&format=png" alt="TS" width="45" height="45"  title="TS"/>
+  <img src="https://img.icons8.com/?size=256&id=46845&format=png" alt="SQL" width="45" height="45"  title="Banco de Dados"/>
+  <img src="https://img.icons8.com/?size=256&id=46605&format=png" alt="HTML" width="45" height="45"  title="HTML"/>
+  <img src="https://img.icons8.com/?size=256&id=107497&format=png" alt="CSS" width="45" height="45"  title="CSS"/>
+
 </div>
 
 
