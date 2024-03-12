@@ -39,7 +39,7 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+<img src="https://i.pinimg.com/originals/04/b9/c9/04b9c9647bc30a3aed39e9bb07dbe33e.gif" width="350" height="1">
 </p>
  
 <div align="center">  
@@ -48,6 +48,6 @@ Obrigada pela sua atenção e espero poder compartilhar conhecimento e experiên
 </div>
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+<img src="https://i.pinimg.com/originals/04/b9/c9/04b9c9647bc30a3aed39e9bb07dbe33e.gif" width="350" height="1">
 </p>
 
