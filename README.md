@@ -12,7 +12,7 @@ Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidade
 
 Estou focando em aprofundar meu conhecimento em desenvolvimento de backend. Através do uso de tecnologias como Node.js, Java, e outras, estou explorando a criação de servidores, APIs robustas e sistemas escaláveis.
 
-### Desenvolvimento de Frontend:
+### Frontend Development
 
 Estou imersa no mundo do desenvolvimento de frontend, empenhando-me em aprofundar meu conhecimento e habilidades nessa área. Trabalhando com tecnologias como HTML, CSS, JavaScript, React e outras, estou focada em criar interfaces de usuário atraentes, responsivas e de alta qualidade. Estou constantemente explorando novos frameworks e bibliotecas para melhorar minhas habilidades e oferecer experiências excepcionais aos usuários.
 
