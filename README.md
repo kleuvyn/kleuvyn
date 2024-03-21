@@ -4,11 +4,17 @@ Olá, visitante! Seja bem-vindo ao meu perfil no GitHub. Aqui você encontrará 
 
 # Quem Sou Eu?
 
-Meu nome é Beatryz Kleuvyn, e sou uma entusiasta de tecnologia e uma aprendiz de programação. Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidades em duas áreas principais:
+Olá! Sou Beatryz Kleuvyn, desenvolvedora em construção e uma entusiasta de tecnologia.
+Atualmente, estou concentrando meus estudos na Análise de Dados, um campo que me apaixona e que pretendo seguir profissionalmente. Tenho grande interesse em extrair, carregar e tratar dados, e durante esse processo, minha mente se enche de possibilidades. Já começo a visualizar como montar esses dados no Power BI, formulando perguntas e considerando as diversas análises que posso realizar. Até mesmo crio apresentações, como se estivesse apresentando para uma audiência, e questiono a mim mesma como se estivesse nesse momento. Apesar de ter apenas experiência por meio de estudos até agora, estou cheia de ideias para colocar em prática e continuar a aprimorar minhas habilidades nesse campo empolgante da análise de dados.
+Atualmente, estou dedicando meu tempo para estudar e aprimorar minhas habilidades em duas áreas principais:
 
 ### Backend Development
 
 Estou focando em aprofundar meu conhecimento em desenvolvimento de backend. Através do uso de tecnologias como Node.js, Java, e outras, estou explorando a criação de servidores, APIs robustas e sistemas escaláveis.
+
+### Desenvolvimento de Frontend:
+
+Estou imersa no mundo do desenvolvimento de frontend, empenhando-me em aprofundar meu conhecimento e habilidades nessa área. Trabalhando com tecnologias como HTML, CSS, JavaScript, React e outras, estou focada em criar interfaces de usuário atraentes, responsivas e de alta qualidade. Estou constantemente explorando novos frameworks e bibliotecas para melhorar minhas habilidades e oferecer experiências excepcionais aos usuários.
 
 ### Ciência de Dados com Python
 
