@@ -37,7 +37,7 @@ Studying at the moment:
 </p>
 <h3>Volunteer Project</h3>
 <p>
-  Currently, I am part of the volunteer project "Projeto 4 Pozi Arad", where we are creating a website for the NGO to help with promotion. At my college, IESB, I was a           leader    and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and       well-being      of the community.
+  Currently, I am part of the volunteer project "Project 4 Pozi Arad", where we are creating a website for the abandoned animals in a shelter to help with adoption. At my college, IESB, I was a           leader    and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and       well-being      of the community.
 </p>
 <h4>
    Thank you for your attention, and I look forward to sharing knowledge and experiences with you!
