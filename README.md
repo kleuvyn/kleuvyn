@@ -5,12 +5,11 @@ Hello, visitor! Welcome to my GitHub profile. Here, you will find information ab
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
 </p>
-
-### Studying at the moment:
-
-
+<h3 align="center">
+Studying at the moment:
+</h3>
+<br>
 <div align="center">
-  
   <img src="https://img.icons8.com/?size=256&id=hZvpN3zV45Yf&format=png" alt="Python" width="45" height="45" title="Python" />
   <img src="https://img.icons8.com/?size=256&id=lTKW3iI3wIT0&format=png" alt="Java" width="45" height="45" title="Java"/>
   <img src="https://img.icons8.com/?size=256&id=Nkym0Ujb8VGI&format=png" alt="JS" width="45" height="45" title="JavaScript"/>
@@ -19,15 +18,12 @@ Hello, visitor! Welcome to my GitHub profile. Here, you will find information ab
   <img src="https://img.icons8.com/?size=256w&id=MBA5vPE4dGz2&format=png" alt="SQL" width="45" height="45"  title="Banco de Dados"/>
   <img src="https://img.icons8.com/?size=256&id=123603&format=png" alt="React" width="45" height="45"  title="React"/>
   <img src="https://img.icons8.com/?size=256&id=54087&format=png" alt="Node" width="45" height="45"  title="Node"/>
-  
-
 </div>
- 
+<br>
 <div align="center">  
   <img width="52%" height="190px" src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" /> 
   <img width="45%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
 </div>
-
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
 </p>
