@@ -36,17 +36,6 @@ Hello, visitor! Welcome to my GitHub profile. Here, you will find information ab
 ### Who Am I?
 I am Beatryz Kleuvyn, a developer in the making and a technology enthusiast. Currently, I am focusing my studies on Data Analysis, a field I am passionate about and intend to pursue professionally. I have a great interest in extracting, loading, and processing data, and during this process, my mind is filled with possibilities. I visualize how to structure this data in Power BI, formulating questions and considering various analyses. Despite having limited practical experience, I am full of ideas to apply and continue improving my skills in this exciting area.
 
-## Currently, I am dedicating my time to studying and improving my skills in:
-
-### Backend Development
-I am deepening my knowledge in backend development. Using technologies such as Node.js, Java, and others, I am exploring the creation of servers, robust APIs, and scalable systems.
-
-### Frontend Development
-I am immersed in the world of frontend development, striving to enhance my knowledge and skills in this area. Working with technologies like HTML, CSS, JavaScript, React, and others, I am focused on creating attractive, responsive, and high-quality user interfaces. I constantly explore new frameworks and libraries to improve my skills and provide exceptional user experiences.
-
-### Data Science with Python
-I am embarking on the exciting journey of Data Science. I am exploring Python and its powerful libraries, such as NumPy, Pandas, Matplotlib, and Scikit-Learn, to analyze data, create predictive models, and extract valuable insights.
-
 ### Volunteer Project
 Currently, I am part of the volunteer project "Projeto 4 Pozi Arad", where we are creating a website for the NGO to help with promotion. At my college, IESB, I was a leader and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and well-being of the community.
 
