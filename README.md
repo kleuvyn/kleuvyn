@@ -1,8 +1,10 @@
-# Welcome to My GitHub Profile!
-Hello, visitor! Welcome to my GitHub profile. Here, you will find information about me, my interests, and the projects I am involved in. Let me share a bit about my journey.
-
-
-<p align="center">
+<h2>
+  Welcome to My GitHub Profile!
+</h2>
+<p>
+  Hello, visitor! Welcome to my GitHub profile. Here, you will find information about me, my interests, and the projects I am involved in. Let me share a bit about my journey.
+</p>
+<p align="center"  text-align: justify;>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
 </p>
 <h3 align="center">
@@ -27,12 +29,19 @@ Studying at the moment:
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
 </p>
+<h3>
+  Who Am I?
+</h3>
+<p  text-align: justify;>
+  I am Beatryz Kleuvyn, a developer in the making and a technology enthusiast. Currently, I am focusing my studies on Data Analysis, a field I am passionate about and intend    to pursue professionally. I have a great interest in extracting, loading, and processing data, and during this process, my mind is filled with possibilities. I visualize       how to structure this data in Power BI, formulating questions and considering various analyses. Despite having limited practical experience, I am full of ideas to apply        and continue improving my skills in this exciting area.
+</p>
+<h3>Volunteer Project</h3>
+<p>
+  Currently, I am part of the volunteer project "Projeto 4 Pozi Arad", where we are creating a website for the NGO to help with promotion. At my college, IESB, I was a           leader    and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and       well-being      of the community.
+</p>
+<h4>
+   Thank you for your attention, and I look forward to sharing knowledge and experiences with you!
+</h4>
 
+  
 
-### Who Am I?
-I am Beatryz Kleuvyn, a developer in the making and a technology enthusiast. Currently, I am focusing my studies on Data Analysis, a field I am passionate about and intend to pursue professionally. I have a great interest in extracting, loading, and processing data, and during this process, my mind is filled with possibilities. I visualize how to structure this data in Power BI, formulating questions and considering various analyses. Despite having limited practical experience, I am full of ideas to apply and continue improving my skills in this exciting area.
-
-### Volunteer Project
-Currently, I am part of the volunteer project "Projeto 4 Pozi Arad", where we are creating a website for the NGO to help with promotion. At my college, IESB, I was a leader and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and well-being of the community.
-
-Thank you for your attention, and I look forward to sharing knowledge and experiences with you!
