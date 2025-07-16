@@ -33,15 +33,13 @@ Studying at the moment:
   Who Am I?
 </h3>
 <p  text-align: justify;>
-  I am Beatryz Kleuvyn, a developer in the making and a technology enthusiast. Currently, I am focusing my studies on Data Analysis, a field I am passionate about and intend    to pursue professionally. I have a great interest in extracting, loading, and processing data, and during this process, my mind is filled with possibilities. I visualize       how to structure this data in Power BI, formulating questions and considering various analyses. Despite having limited practical experience, I am full of ideas to apply        and continue improving my skills in this exciting area.
+  Sou Beatryz Kleuvyn, profissional em transição para a área de Ciência de Dados, com paixão por tecnologia, educação e impacto social. Sou formada em Análise e Desenvolvimento de Sistemas, estudante de Licenciatura em Matemática e pós-graduanda em Ciência de Dados, Inteligência Artificial e MBA em Tecnologia para Negócios (AI, DS e Big Data).
+
+Atualmente estou aprofundando meus conhecimentos em análise de dados — aprendendo na prática sobre coleta, limpeza, visualização e interpretação de dados — como base sólida para minha futura atuação como Cientista de Dados. Estou desenvolvendo projetos que envolvem chatbots com inteligência artificial, fluxos de atendimento e análise de comportamento de usuários, sempre guiada por dados reais e propósito social.
+
+Meu foco é construir soluções que unam tecnologia, educação e empatia, com curiosidade constante e desejo genuíno de aprender e contribuir. Estou aberta a oportunidades que valorizem o aprendizado contínuo e o desenvolvimento de produtos ou estratégias baseadas em dados.
 </p>
-<h3>Volunteer Project</h3>
-<p>
-  Currently, I am part of the volunteer project "Project 4 Pozi Arad", where we are creating a website for the abandoned animals in a shelter to help with adoption. At my college, IESB, I was a           leader    and backend developer of a Point of Sale platform in an open-source volunteer project, aiming to benefit the community. This initiative addresses the needs and       well-being      of the community.
-</p>
-<h4>
-   Thank you for your attention, and I look forward to sharing knowledge and experiences with you!
-</h4>
+
 
   
 
