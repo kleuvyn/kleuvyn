@@ -29,9 +29,7 @@ Studying at the moment:
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
 </p>
-<h3>
-  Who Am I?
-</h3>
+
 <p  text-align: justify;>
   Sou Beatryz Kleuvyn, profissional em transição para a área de Ciência de Dados, com paixão por tecnologia, educação e impacto social. Sou formada em Análise e Desenvolvimento de Sistemas, estudante de Licenciatura em Matemática e pós-graduanda em Ciência de Dados, Inteligência Artificial e MBA em Tecnologia para Negócios (AI, DS e Big Data).
 
