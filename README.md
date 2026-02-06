@@ -22,13 +22,6 @@ Studying at the moment:
   <img src="https://img.icons8.com/?size=256&id=54087&format=png" alt="Node" width="45" height="45"  title="Node"/>
 </div>
 <br>
-<div align="center">  
-  <img width="52%" height="190px" src="https://github-readme-stats.vercel.app/api?username=KLEUVYN&show_icons=true&theme=dark" /> 
-  <img width="45%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleuvyn&layout=compact&show_icons=true&theme=synthwave" />
-</div>
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmgxandzZXpwNmoxa3QzeTg0YThvcW9yNmx2c2k2dThpbHEyOWl5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.webp" width="100%" height="1">
-</p>
 
 <p  text-align: justify;>
   Sou Beatryz Kleuvyn, profissional em transição para a área de Ciência de Dados, com paixão por tecnologia, educação e impacto social. Sou formada em Análise e Desenvolvimento de Sistemas, estudante de Licenciatura em Matemática e pós-graduanda em Ciência de Dados, Inteligência Artificial e MBA em Tecnologia para Negócios (AI, DS e Big Data).
